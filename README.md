@@ -86,7 +86,7 @@ This project sets up a basic web server using Nginx in a Docker container. Follo
      ```bash
      git add .
      git commit -m "Initial commit - Dockerized Nginx Web Server"
-     git remote add origin https://github.com/pavan5779/Task-2_Cloud_Ambassidor.git
+     https://github.com/Priyanka544469/Task-2_Cloud_Ambassadors.git
      git push -u origin main
      ```
 
